@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2> Look at me! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+[![dong's github stats](https://github-readme-stats.vercel.app/api?username=lddtime&show_icons=true)](https://github.com/lddtime)
 
 <!--
 **lddtime/lddtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
